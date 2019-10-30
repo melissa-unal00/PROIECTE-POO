@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1572448814 source:c:\programare\poo_t1\main.cpp
+	<iostream>
+	"polinom.h"
+
+1572446513 c:\programare\poo_t1\polinom.h
+
+1572448814 source:c:\programare\poo_t1\polinom.cpp
+	<iostream>
+	<sstream>
+	<stdexcept>
+	<cmath>
+	<math.h>
+	"polinom.h"
+
